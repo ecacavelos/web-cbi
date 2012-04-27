@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+#logo {
+	left: 5% !important;
+}
+
+#main-section {
+	top: 6% !important;
+}
+
+#main-section img {
+	/*height: 19px !important;*/
+}
+
+#main-section img.b1 {
+	height: auto !important;
+}
+
+#text-area {	
+	width: 50%;
+	max-height: 55%;
+	position: relative;
+	top: 15%;
+	left: 25%;
+	right: 25%;
+	
+	overflow: scroll;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+#column1 {
+	float: left;
+	width: 44%;
+	margin-left: 4%;
+	
+	text-align: justify;
+}
+
+#column2 {
+	float: right;
+	width: 44%;
+	margin-right: 4%;
+	
+	text-align: justify;
+}
+
+#footer-line {
+	background: #999;
+	width: 50%;
+	height: 1px;
+	
+	position: absolute;
+	bottom: 20%;
+	left: 25%;
+	right: 25%;
+}
+
