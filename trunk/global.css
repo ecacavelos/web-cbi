@@ -5,8 +5,8 @@ html {
     height: 99%;
 	background-image: url(images/background.png);
 	background-size: contain;
-	background-color: #444444;
-	background-repeat: repeat;
+	background-color: #131313;
+	background-repeat: repeat-x;
 	overflow-x: hidden;
 	overflow-y: auto;
 }
@@ -17,8 +17,8 @@ body {
 	margin: 0px;
 	/*padding: 10px;*/
 	
-	font-family: "Arial", Arial, Helvetica, sans-serif;
-	font-size: 20px;
+	font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
+	font-size: 16px;
 
 	color: #FFF;
 }
