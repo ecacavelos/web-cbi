@@ -82,6 +82,7 @@ a img {
 
 #main-section {
 	width: 50%;
+	min-width: 600px;
 	height: 20%;
 	
 	position: absolute;

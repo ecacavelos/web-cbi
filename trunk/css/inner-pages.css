@@ -2,11 +2,11 @@
 /* CSS Document */
 
 #logo {
-	left: 5% !important;
+	left: 5%; /*!important;*/
 }
 
 #main-section {
-	top: 6% !important;
+	top: 6%; /*!important;*/
 }
 
 #main-section img {
@@ -19,6 +19,7 @@
 
 #text-area {	
 	width: 50%;
+	min-width: 600px;
 	max-height: 55%;
 	position: relative;
 	top: 15%;
@@ -49,6 +50,7 @@
 #footer-line {
 	background: #999;
 	width: 50%;
+	min-width: 600px;
 	height: 1px;
 	
 	position: absolute;
