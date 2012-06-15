@@ -6,7 +6,7 @@
 }
 
 #main-section {
-	top: 6%; /*!important;*/
+	top: 7%; /*!important;*/
 }
 
 #main-section img {
@@ -18,13 +18,13 @@
 }
 
 #text-area {	
-	width: 50%;
+	width: 70%;
 	min-width: 600px;
 	max-height: 55%;
 	position: relative;
 	top: 15%;
-	left: 25%;
-	right: 25%;
+	left: 15%;
+	right: 15%;
 	
 	overflow: scroll;
 	overflow-x: hidden;
