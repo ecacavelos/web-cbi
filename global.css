@@ -40,10 +40,6 @@ a img {
 	/*border:  1px solid red;*/
 }
 
-#content div {
-	/*border:  1px solid green;*/
-}
-
 #logo {
 	width: 10%;	
 	
@@ -109,7 +105,6 @@ a img {
 
 #main-section {
 	width: 50%;
-	min-width: 600px;
 	height: 20%;
 	
 	position: absolute;
@@ -186,3 +181,34 @@ a img {
 	height: 15%;
 	z-index: -1;
 }
+
+@media screen and (max-width: 800px) {
+
+	#main-section {
+		width: 70%;
+		height: 20%;
+	
+		left: 15%;
+		right: 15%;
+	}
+	
+}
+
+@media screen and (max-width: 600px) {
+	
+	#logo {
+		width: 20%;
+		left: 40%;
+		right: 40%;
+		top: 12%;
+	}
+
+	#main-section {
+		width: 94%;
+	
+		left: 3%;
+		right: 3%;
+	}
+	
+}
+
