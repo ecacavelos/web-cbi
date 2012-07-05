@@ -212,3 +212,12 @@ a img {
 	
 }
 
+a:link {
+	font-size: 16px;
+	color: #06F;
+}
+a:hover {
+	filter: Invert;
+	color: #09F;
+	cursor: default;
+}
