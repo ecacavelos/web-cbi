@@ -19,8 +19,8 @@
 
 #text-area {	
 	width: 70%;
-	min-width: 600px;
-	max-height: 55%;
+	/*min-width: 600px;*/
+	max-height: 50%;
 	position: relative;
 	top: 15%;
 	left: 15%;
@@ -47,10 +47,20 @@
 	text-align: justify;
 }
 
+.columnimage {
+	width: 100%;
+	text-align: center;
+}
+
+.columnimage img {
+	width: 90%;
+	height: auto;	
+}
+
 #footer-line {
 	background: #999;
 	width: 50%;
-	min-width: 600px;
+	/*min-width: 600px;*/
 	height: 1px;
 	
 	position: absolute;
@@ -59,3 +69,49 @@
 	right: 25%;
 }
 
+@media screen and (max-width: 1000px) {
+
+	#main-section {
+		top: 8%;
+	}	
+	
+}
+
+@media screen and (max-width: 800px) {
+	
+	#main-section {
+		width: 70%;
+		left: 15%;
+		right: 15%;
+		top: 8%;
+	}
+	
+	#column1 {
+		overflow: auto;
+		float: none;
+		width: 90%;
+		margin-left: 5% !important;
+		margin-right: 5% !important;
+	}	
+	
+	#column2 {
+		overflow: auto;
+		float: none;
+		width: 90%;
+		margin-left: 5% !important;
+		margin-right: 5% !important;		
+	}
+}
+
+@media screen and (max-width: 600px) {
+	#text-area {	
+		max-height: 55%;
+	}	
+	
+	#main-section {
+		width: 80%;
+		left: 10%;
+		right: 10%;
+		top: 9%;
+	}		
+}

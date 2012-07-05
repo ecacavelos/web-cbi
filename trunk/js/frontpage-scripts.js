@@ -6,7 +6,8 @@ $(document).ready(function() {
 
 $(window).load(function() {
 	// executes when complete page is fully loaded, including all frames, objects and images
-	$("body").fadeIn(750);
+	//$("body").fadeIn(750);
+	$("body").show();
 	var button_height_claro = $("img.claro").height();
 	var button_height_oscuro = $("img.oscuro").height();
 	
@@ -84,7 +85,7 @@ $(window).load(function() {
 			$("img.b4").attr("src","images/boton-oscuro.png");
 		}
 				
-		$("#main-section").animate({top: '6%'}, 500, redirectPage);
+		$("#main-section").animate({top: '7%'}, 500, redirectPage);
     });
 	
 	function redirectPage() {
