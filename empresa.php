@@ -3,11 +3,14 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="robots" content="noindex" />
-    <title>CBI</title>
-    
+    <title>CBI</title>    
     <link rel="stylesheet" type="text/css" href="global.css" />
     <link rel="stylesheet" type="text/css" href="css/inner-pages.css" />
-    
+	<style type="text/css" id="page-css">
+        #main-section img.b1 {
+            height: auto !important;
+        }
+    </style>
 	<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="js/innerpage-scripts.js"></script>
 	<script type="text/javascript" id="sourcecode">
@@ -21,16 +24,10 @@
     </noscript>
 </head>
 <body>
-    <!--Script para detectar la resolucón del usuario.-->
-    <!--
-    <script type="text/javascript">
-        document.write(screen.width+'x'+screen.height);
-    </script>
-    -->
     <div id="upper_bar"></div>
     <div id="wrap">
         <div id="content">
-            <div id="logo"> <a class="transition-out" href="index.php"><img src="images/logo.png" width="160" height="80"/></a></div>
+            <div id="logo"><a class="transition-out" href="index.php"><img src="images/logo.png" width="160" height="80"/></a></div>
             <div id="main-section"><a class="transition b1" href="#"><img class="claro b1" src="images/boton-empresa.png" width="196" height="143"/></a>
                 <a class="transition b2" href="servicios.php"><img class="oscuro b2" src="images/boton-oscuro.png" width="170" height="115"/></a>
                 <a class="transition b3" href="proyectos.php"><img class="claro b3" src="images/boton-claro.png" width="198" height="145"/></a>
