@@ -21,14 +21,12 @@
     <div id="upper_bar"></div>
     <div id="wrap">
 		<div id="content">
-            <div id="logo">
-                <img src="images/logo.png" width="160" height="80"/>
-            </div>
-                <div id="main-section"><a class="transition-up b1" href="empresa.php"><img class="claro b1" src="images/boton-empresa.png" width="196" height="143"/></a>
-                <a class="transition-up b5" href="servicios.php"><img class="claro b5" src="images/boton-servicios.png" width="196" height="143"/></a>
-                <a class="transition-up b5" href="proyectos.php"><img class="claro b5" src="images/boton-proyectos.png" width="196" height="143"/></a>
-                <a class="transition-up b5" href="clientes.php"><img class="claro b5" src="images/boton-clientes.png" width="196" height="143"/></a>
-                <a class="transition-up b4" href="contacto.php"><img class="oscuro b4" src="images/boton-contacto.png" width="170" height="115"/></a>
+            <div id="logo"><img src="images/logo.png" width="160" height="80"/></div>
+			<div id="main-section"><a class="transition-up b1" href="empresa.php"><img class="claro b1" src="images/boton-empresa.png" width="196" height="143"/></a>
+                <a class="transition-up b2" href="servicios.php"><img class="claro b2" src="images/boton-servicios.png" width="196" height="143"/></a>
+                <a class="transition-up b3" href="proyectos.php"><img class="claro b3" src="images/boton-proyectos.png" width="196" height="143"/></a>
+                <a class="transition-up b4" href="clientes.php"><img class="claro b4" src="images/boton-clientes.png" width="196" height="143"/></a>
+                <a class="transition-up b5" href="contacto.php"><img class="oscuro b5" src="images/boton-contacto.png" width="170" height="115"/></a>
             </div>
             <div id="social-icons">
                 <a target="_blank" href="http://twitter.com/#!/CBI_py"><img class="twitter" src="images/icon_tw-black.png" width="32" height="32"/></a><a target="_blank" href="http://www.facebook.com/CBInformatica"><img class="facebook" src="images/icon_fb-black.png" width="32" height="32"/></a>
