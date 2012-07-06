@@ -106,12 +106,37 @@
 @media screen and (max-width: 600px) {
 	#text-area {	
 		max-height: 55%;
-	}	
+	}
+	
+	#logo {
+		top: 4%;
+		width: 20%;
+		left: 40%;
+		right: 40%;
+	}
 	
 	#main-section {
 		width: 80%;
 		left: 10%;
 		right: 10%;
-		top: 9%;
-	}		
+		top: 12%;
+	}
+	
+	#upper_bar {
+		height: 17%;
+	}
+	
+	#lower_bar {
+		height: 10%;
+	}
+	
+	#social-icons {
+		width: 16%;	
+		left: 43%;
+		right: 43%;
+		bottom: 5%;
+	}
+	#footer-line {
+		display: none !important;
+	}
 }
