@@ -21,9 +21,9 @@
         -->
 		<div id="wrap">
 			<div id="content">
-            	<div id="logo"> <a class="transition-out" href="index.html"><img src="images/logo.png" width="160" height="80"/></a>
+            	<div id="logo"> <a class="transition-out" href="index.php"><img src="images/logo.png" width="160" height="80"/></a>
                 </div>
-				<div id="main-section"><a class="transition b1" href="#"><img class="claro b1" src="images/boton-empresa.png" width="196" height="143"/></a><a class="transition b2" href="#"><img class="oscuro b2" src="images/boton-oscuro.png" width="170" height="115"/></a><a class="transition b3" href="#"><img class="claro b3" src="images/boton-claro.png" width="198" height="145"/></a><a class="transition b4" href="#"><img class="oscuro b4" src="images/boton-oscuro.png" width="198" height="145"/></a><a class="transition b5" href="#"><img class="claro b5" src="images/boton-claro.png" width="198" height="145"/></a></div>
+				<div id="main-section"><a class="transition b1" href="#"><img class="claro b1" src="images/boton-empresa.png" width="196" height="143"/></a><a class="transition b2" href="servicios.php"><img class="oscuro b2" src="images/boton-oscuro.png" width="170" height="115"/></a><a class="transition b3" href="proyectos.php"><img class="claro b3" src="images/boton-claro.png" width="198" height="145"/></a><a class="transition b4" href="clientes.php"><img class="oscuro b4" src="images/boton-oscuro.png" width="198" height="145"/></a><a class="transition b5" href="contacto.php"><img class="claro b5" src="images/boton-claro.png" width="198" height="145"/></a></div>
                 <div id="text-area">
                 	<div id="column1">
                     	<h2> Overview </h2>
@@ -35,8 +35,9 @@
                     </div>                    	
                 	<div id="column2">
                     <h2> Equipo Humano </h2>
-                    	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p><br>
-                        <p>ffffffff .</p>
+                    	<p>El material mas importante que tiene CBI, es sin duda, el humano. CBI esta compuesto por un equipo de jovenes profesionales y en etapa de desarrollo en carreras relacionadas a la Informática. </p><br>
+                    	<p>Cuidamos este patrimonio estimulando la capacitación constante de todas las personas que trabajan en nuestra empresa. Tenemos como política, el apoyo en la realización de cursos o actividades por parte del staff de CBI y de esta manera, contribuir con la sociedad, con personas mejor preparadas. </p><br>
+                        <p>Tambien prestamos mucha atención al desarrollo integral de la persona, fomentando siempre valores como honestidad, respeto, trabajo en equipo y autosuficiencia. Para nosotros es importante entender y promover la idea que el lugar de trabajo debe ser, un lugar de educación constante.  </p><br>
                     </div>
                 </div>
                 <div id="footer-line">
@@ -44,6 +45,14 @@
 		    	<div id="social-icons">
 					<img class="twitter" src="images/icon_tw-black.png" width="32" height="32"/><img class="facebook" src="images/icon_fb-black.png" width="32" height="32"/>
 				</div>
+                <div id="footer">
+                	<div id="footer_text">
+                        <p>C.B. Solutions S.R.L - Todos los derechos reservados
+                        <br />
+                        <a href="contacto.php" >Contacto</a>
+                        </p>    
+	                </div>            
+    	        </div>
 			</div>
 		</div>
     </body>

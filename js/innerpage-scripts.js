@@ -26,10 +26,10 @@ $(window).load(function() {
 				autoHeight = $(this).css('height', 'auto').height();
 				$(this).height(curHeight).animate({height: autoHeight}, 500);
 				if($(this).hasClass('b3')) {
-					$(this).attr("src","images/boton-desarrollo.png");
+					$(this).attr("src","images/boton-proyectos.png");
 				}
 				if($(this).hasClass('b5')) {
-					$(this).attr("src","images/boton-proyectos.png");
+					$(this).attr("src","images/boton-contacto.png");
 				}
 			}
 		}, 
@@ -51,7 +51,7 @@ $(window).load(function() {
 				$(this).attr("src","images/boton-servicios.png");
 			}
 			if($(this).hasClass('b4')) {
-				$(this).attr("src","images/boton-contacto.png");
+				$(this).attr("src","images/boton-clientes.png");
 			}		
 		}, 
 		function () {
