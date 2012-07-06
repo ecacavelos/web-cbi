@@ -4,10 +4,18 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="robots" content="noindex" />
     <title>CBI</title>
+    
     <link rel="stylesheet" type="text/css" href="global.css" />
     <link rel="stylesheet" type="text/css" href="css/inner-pages.css" />
-    <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
+    
+	<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="js/innerpage-scripts.js"></script>
+	<script type="text/javascript" id="sourcecode">
+        $(function()
+        {
+            $currentpageclass = 'b1';
+        });
+    </script>
     <noscript>
     
     </noscript>
