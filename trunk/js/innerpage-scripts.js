@@ -20,11 +20,14 @@ $(window).load(function() {
 		
 	$("img.claro").hover(	
 		function () {
-			if($(this).hasClass('b1') == false) {
+			if($(this).hasClass($currentpageclass) == false) {
 				//$(this).animate({height: '70%'}, 500);
 				curHeight = $(this).height(),
 				autoHeight = $(this).css('height', 'auto').height();
 				$(this).height(curHeight).animate({height: autoHeight}, 500);
+				if($(this).hasClass('b1')) {
+					$(this).attr("src","images/boton-empresa.png");
+				}				
 				if($(this).hasClass('b3')) {
 					$(this).attr("src","images/boton-proyectos.png");
 				}
@@ -34,7 +37,7 @@ $(window).load(function() {
 			}
 		}, 
 		function () {
-			if($(this).hasClass('b1') == false) {
+			if($(this).hasClass($currentpageclass) == false) {
 				$(this).animate({height: '19px'}, 500);
 				$(this).attr("src","images/boton-claro.png");
 			}
@@ -43,20 +46,24 @@ $(window).load(function() {
 	
 	$("img.oscuro").hover(	
 		function () {
-			//$(this).animate({height: '65%'}, 500);
-			curHeight = $(this).height(),
-			autoHeight = $(this).css('height', 'auto').height();
-			$(this).height(curHeight).animate({height: autoHeight}, 500);
-			if($(this).hasClass('b2')) {
-				$(this).attr("src","images/boton-servicios.png");
+			if($(this).hasClass($currentpageclass) == false) {
+				//$(this).animate({height: '65%'}, 500);
+				curHeight = $(this).height(),
+				autoHeight = $(this).css('height', 'auto').height();
+				$(this).height(curHeight).animate({height: autoHeight}, 500);
+				if($(this).hasClass('b2')) {
+					$(this).attr("src","images/boton-servicios.png");
+				}
+				if($(this).hasClass('b4')) {
+					$(this).attr("src","images/boton-clientes.png");
+				}
 			}
-			if($(this).hasClass('b4')) {
-				$(this).attr("src","images/boton-clientes.png");
-			}		
 		}, 
 		function () {
-			$(this).animate({height: '19px'}, 500);
-			$(this).attr("src","images/boton-oscuro.png");
+			if($(this).hasClass($currentpageclass) == false) {
+				$(this).animate({height: '19px'}, 500);
+				$(this).attr("src","images/boton-oscuro.png");
+			}
 		}
 	);
 	
