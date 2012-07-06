@@ -27,6 +27,16 @@ a img {
 	border: none; 
 }
 
+a:link {
+	font-size: 16px;
+	color: #06F;
+}
+a:hover {
+	filter: Invert;
+	color: #09F;
+	/*cursor: default;*/
+}
+
 #wrap {
 	height: 100%;
 	
@@ -210,14 +220,4 @@ a img {
 		right: 3%;
 	}
 	
-}
-
-a:link {
-	font-size: 16px;
-	color: #06F;
-}
-a:hover {
-	filter: Invert;
-	color: #09F;
-	cursor: default;
 }
