@@ -3,12 +3,17 @@
 
 html {
     height: 99%;
-	background-image: url(images/bkg.png);
+	
 	/*background-size: contain;*/
-	background-color: #131313;
+	background-image: url(images/bkg.png);*/	
 	background-repeat: repeat;
 	overflow-x: hidden;
 	overflow-y: auto;
+	
+	/*background-color: #131313;*/	
+	/* mozilla example - FF3.6+ */
+    background-image: -webkit-linear-gradient(left, rgba(0,0,0,0) 0%,rgba(19,19,19,0.75) 25%,rgba(19,19,19,0.75) 75%,rgba(0,0,0,0) 100%), url(images/bkg.png); /* Chrome10+,Safari5.1+ */	
+	background-image: -moz-linear-gradient(to right, rgba(0, 0, 0, 0) 0%, rgba(19, 19, 19, 0.75) 25%, rgba(19, 19, 19, 0.75) 75%, rgba(0, 0, 0, 0) 100%), url(images/bkg.png);
 }
 
 body {
@@ -20,7 +25,7 @@ body {
 	font-family: "Trebuchet MS", Helvetica, Arial, sans-serif;
 	font-size: 14px;
 
-	color: #FFF;
+	color: #FFF;	
 }
 
 a img {
@@ -30,11 +35,19 @@ a img {
 a:link {
 	font-size: 16px;
 	color: #06F;
+	text-decoration: none;
 }
 a:hover {
-	filter: Invert;
+	/*filter: Invert;*/
 	color: #09F;
 	/*cursor: default;*/
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
 }
 
 #wrap {
