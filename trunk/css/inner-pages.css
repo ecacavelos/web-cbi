@@ -20,6 +20,7 @@
 #text-area {	
 	width: 70%;
 	/*min-width: 600px;*/
+	min-height: 256px;
 	max-height: 50%;
 	position: relative;
 	top: 15%;
