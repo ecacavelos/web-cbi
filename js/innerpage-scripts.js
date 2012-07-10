@@ -75,7 +75,10 @@ $(window).load(function() {
 		
 		$("#logo").animate({left: '45%'}, 500);
 		$("#main-section").animate({top: '40%'}, 500);
+		
 		$("#footer-line").animate({opacity: '0%'}, 500);
+		$("#controls").animate({opacity: '0%'}, 500);
+		$("#thumbs").animate({opacity: '0%'}, 500);
 		$("#text-area").animate({opacity: '0%'}, 500, redirectPage);
     });
 	

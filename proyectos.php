@@ -6,6 +6,7 @@
     <title>CBI</title>
     <link rel="stylesheet" type="text/css" href="global.css" />
     <link rel="stylesheet" type="text/css" href="css/inner-pages.css" />
+    <link rel="stylesheet" type="text/css" href="css/proyectos.css" />
     <link rel="stylesheet" type="text/css" href="css/galleriffic-2.css" />
     <style type="text/css" id="page-css">
         #main-section img.b3 {
@@ -73,7 +74,6 @@
             </div>                      
             
             <div id="text-area">  
-            
 				<div class="slideshow-container">
 					<div id="loading" class="loader"></div>
 					<div id="slideshow" class="slideshow"></div>

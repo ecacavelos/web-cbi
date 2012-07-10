@@ -205,6 +205,8 @@ a:active {
 	z-index: -1;
 }
 
+/* Media Queries para adaptar a resoluciones menores */
+
 @media screen and (max-width: 800px) {
 
 	#main-section {

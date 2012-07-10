@@ -16,7 +16,7 @@ div.controls {
 	height: 23px;
 	/* Especial para CBI */
 	position: absolute;
-	top: 20%;
+	top: 22%;
 	width: 50%;
 	left: 25%;
 	right: 25%;
@@ -84,6 +84,7 @@ div.caption-container {
 	/*top: 0%;
 	right: 3%;*/
 	width: 40%;
+	text-align: justify;
 }
 span.image-caption {
 	display: block;
@@ -105,7 +106,7 @@ div.image-desc {
 }
 div.navigation {
 	position: absolute;
-	bottom: 10%;
+	bottom: 9%;
 	left: 25%;
 	right: 25%;
 	z-index: 1;
