@@ -60,7 +60,7 @@ $(window).load(function() {
 		}
 		else if(clicked.hasClass('b4')){
 			$("img.b4").animate({height: button_height_oscuro}, 500);
-			$("img.b4").attr("src","images/boton-contacto.png");
+			$("img.b4").attr("src","images/boton-clientes.png");
 			
 			$("img.b1").animate({height: '19'}, 500);
 			$("img.b1").attr("src","images/boton-claro.png");
