@@ -13,16 +13,17 @@ $(window).load(function() {
 	$("#text-area").fadeIn(750);
 	$("#footer-line").fadeIn(750);
 	
-	var button_height_claro = $("img.claro").height()
+	var button_height_claro = $("img.claro").height();
 	var button_height_oscuro = $("img.oscuro").height();
 	$("img.claro").css("height", "19px");
 	$("img.oscuro").css("height", "19px");
 		
 	$("img.claro").hover(	
 		function () {
+			$(this).stop(true, true);
 			if($(this).hasClass($currentpageclass) == false) {
 				//$(this).animate({height: '70%'}, 500);
-				curHeight = $(this).height(),
+				curHeight = $(this).height();
 				autoHeight = $(this).css('height', 'auto').height();
 				$(this).height(curHeight).animate({height: autoHeight}, 500);
 				if($(this).hasClass('b1')) {
@@ -46,9 +47,10 @@ $(window).load(function() {
 	
 	$("img.oscuro").hover(	
 		function () {
+			$(this).stop(true, true);
 			if($(this).hasClass($currentpageclass) == false) {
 				//$(this).animate({height: '65%'}, 500);
-				curHeight = $(this).height(),
+				curHeight = $(this).height();
 				autoHeight = $(this).css('height', 'auto').height();
 				$(this).height(curHeight).animate({height: autoHeight}, 500);
 				if($(this).hasClass('b2')) {
@@ -57,7 +59,7 @@ $(window).load(function() {
 				if($(this).hasClass('b4')) {
 					$(this).attr("src","images/boton-clientes.png");
 				}
-			}
+			}			
 		}, 
 		function () {
 			if($(this).hasClass($currentpageclass) == false) {
