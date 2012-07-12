@@ -3,9 +3,10 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="robots" content="noindex" />
-    <title>CBI</title>    
+    <title>.:CBI Consultora Informática:.</title>    
     <link rel="stylesheet" type="text/css" href="global.css" />
     <link rel="stylesheet" type="text/css" href="css/inner-pages.css" />
+    <link rel="stylesheet" type="text/css" href="css/flexcrollstyles.css" />
 	<style type="text/css" id="page-css">
         #main-section img.b1 {
             height: auto !important;
@@ -13,6 +14,7 @@
     </style>
 	<script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="js/innerpage-scripts.js"></script>
+    <script type='text/javascript' src="js/flexcroll.js"></script>
 	<script type="text/javascript" id="sourcecode">
         $(function()
         {
@@ -34,7 +36,7 @@
                 <a class="transition b4" href="clientes.php"><img class="oscuro b4" src="images/boton-oscuro.png" width="198" height="145"/></a>
                 <a class="transition b5" href="contacto.php"><img class="claro b5" src="images/boton-claro.png" width="198" height="145"/></a>
             </div>
-            <div id="text-area">
+            <div id="text-area" class="flexcroll">
                 <div id="column1">
                     <h2> Overview </h2>
                     <p>CBI es una empresa joven que busca estar a la vanguardia de las tecnologias de la información. El objetivo primordial de nuestra empresa es ofrecer un servicio de calidad posible en las areas que nos desempeñamos. Nuestra motivacion nace debido a que observamos una gran demanda de servicios de calidad en el servicio tecnico basico como asi tambien los servicios mas avanzados.</p>
@@ -49,6 +51,7 @@
                     <p>Cuidamos este patrimonio estimulando la capacitación constante de todas las personas que trabajan en nuestra empresa. Tenemos como política, el apoyo en la realización de cursos o actividades por parte del staff de CBI y de esta manera, contribuir con la sociedad, con personas mejor preparadas.</p>
                     <p>Tambien prestamos mucha atención al desarrollo integral de la persona, fomentando siempre valores como honestidad, respeto, trabajo en equipo y autosuficiencia. Para nosotros es importante entender y promover la idea que el lugar de trabajo debe ser, un lugar de educación constante.  </p>
                 </div>
+                <div style="clear:both"></div>
             </div>
             <div id="footer-line">
             </div>                

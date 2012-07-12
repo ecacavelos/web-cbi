@@ -39,7 +39,8 @@ a:link {
 }
 a:hover {
 	/*filter: Invert;*/
-	color: #09F;
+	/*color: #09F;*/
+	color: #3CA3CA;
 	/*cursor: default;*/
 	text-decoration: none;
 }
@@ -187,6 +188,9 @@ a:active {
 	font-weight: lighter;
 	font-variant: normal;
 	color: #666;
+}
+#footer_text a:hover {
+	color: #3CA3CA;
 }
 
 #upper_bar {
