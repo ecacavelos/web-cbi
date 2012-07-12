@@ -78,6 +78,7 @@
 	margin-right: 10px;
 	width: 40%;
 	height: auto;
+	border-radius: 5px;
 }
 .services_row {
 	position: relative;
@@ -89,14 +90,15 @@
 	padding-right: 5px;
 	height: auto;
 	overflow: auto;
+	
+	-ms-transition: all 0.4s ease;
+	-moz-transition: all 0.4s ease;
+	-webkit-transition: all 0.4s ease;
+	-o-transition: all 0.4s ease;		
 }
 .services_row:hover {
 	background-color: #1F1F1F;
 	border-radius: 5px;
-}
-.services_row_image{
-	position:relative;
-	float:left;
 }
 .services_row_text {
 	/*padding-left: 390px;*/
