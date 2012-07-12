@@ -38,7 +38,7 @@
               <div id="text-area">
                   <div class="services_row">
                       <h2>Help Desk</h2>
-                       <img src="images/help_desk.jpg" alt="IT CONSULT" width="364" height="223" class="services_row_image">
+                      <img src="images/help_desk.jpg" alt="IT CONSULT" width="364" height="223" class="services_row_image">
                       <div class="services_row_text"><p>Este servicio consiste en ofrecer a empresas y personas individuales una asistencia in-situ y de forma remota, con el fin de resolver problemas de usuario final. Los problemas de usuario final, son los que normalmente se le presentan al usuario que no tiene muchos conocimientos. </p>
       
       <p>Con este servicio pretendemos ofrecer un método preventivo, mediante planes periódicos de visitas de mantenimiento en el lugar del cliente, realizando tareas básicas. Algunas de las tareas desarrolladas son:</p>

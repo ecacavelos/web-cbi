@@ -128,7 +128,7 @@ a:active {
 
 #main-section {
 	width: 50%;
-	min-width: 350px;
+	min-width: 300px;
 	height: 20%;
 	
 	position: absolute;
@@ -230,10 +230,13 @@ a:active {
 	}
 
 	#main-section {
-		width: 94%;
-	
+		width: 94%;	
 		left: 3%;
 		right: 3%;
+	}
+	
+	#main-section img {
+		width: 15%;	
 	}
 	
 }
