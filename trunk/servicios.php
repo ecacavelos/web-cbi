@@ -3,9 +3,10 @@
   <head>
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
       <meta name="robots" content="noindex" />
-      <title>    :::CBI Consultora Informática:::</title>
+      <title>.:CBI Consultora Informática:.</title>
       <link rel="stylesheet" type="text/css" href="global.css" />
       <link rel="stylesheet" type="text/css" href="css/inner-pages.css" />
+      <link rel="stylesheet" type="text/css" href="css/flexcrollstyles.css" />
       <link rel="shortcut icon" href="images/logo--favicon.ico">
       <style type="text/css" id="page-css">
           #main-section img.b2 {
@@ -14,6 +15,7 @@
       </style>        
       <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
       <script type="text/javascript" src="js/innerpage-scripts.js"></script>
+      <script type='text/javascript' src="js/flexcroll.js"></script>
       <script type="text/javascript" id="sourcecode">
           $(function()
           {
@@ -35,7 +37,7 @@
                   <a class="transition b3" href="proyectos.php"><img class="claro b3" src="images/boton-claro.png" width="198" height="145"/></a>
                   <a class="transition b4" href="clientes.php"><img class="oscuro b4" src="images/boton-oscuro.png" width="198" height="145"/></a>
                   <a class="transition b5" href="contacto.php"><img class="claro b5" src="images/boton-claro.png" width="198" height="145"/></a></div>
-              <div id="text-area">
+              <div id="text-area" class="flexcroll">
                   <div class="services_row">
                       <h2>Help Desk</h2>
                       <img src="images/help_desk.jpg" alt="IT CONSULT" width="364" height="223" class="services_row_image">
@@ -43,11 +45,11 @@
       
       <p>Con este servicio pretendemos ofrecer un método preventivo, mediante planes periódicos de visitas de mantenimiento en el lugar del cliente, realizando tareas básicas. Algunas de las tareas desarrolladas son:</p>
       
-      <p>➢	Chequeos de seguridad en las terminales: Antivirus, firewall.</p>
-      <p>➢	Limpieza física de equipos.</p>
-      <p>➢	Configuraciones de programas de usuario: Clientes de correo, Procesadores de texto, etc.</p>
-      <p>➢	Instalación y configuraciones de impresoras.</p>
-      </p>     
+      <p>•	Chequeos de seguridad en las terminales: Antivirus, firewall.</p>
+      <p>•	Limpieza física de equipos.</p>
+      <p>•	Configuraciones de programas de usuario: Clientes de correo, Procesadores de texto, etc.</p>
+      <p>•	Instalación y configuraciones de impresoras.</p>
+
       </div>
                   </div>
                   

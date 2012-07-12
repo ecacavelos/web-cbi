@@ -29,7 +29,11 @@
 	
 	overflow: scroll;
 	overflow-x: hidden;
-	overflow-y: auto;
+	/*overflow-y: auto;*/
+	height: 550px;
+}
+.hscrollerbase { 
+	visibility: hidden !important; 
 }
 
 #footer-line {
