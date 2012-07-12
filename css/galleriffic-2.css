@@ -70,6 +70,7 @@ div.slideshow a.advance-link:hover, div.slideshow a.advance-link:active, div.sli
 div.slideshow img {
 	/*vertical-align: middle;*/
 	border: 1px solid #ccc;
+	border-radius: 5px;
 }
 div.download {
 	float: right;
@@ -128,6 +129,7 @@ a.thumb {
 	padding: 2px;
 	display: block;
 	border: 1px solid #ccc;
+	border-radius: 5px;
 }
 ul.thumbs li.selected a.thumb {
 	background: #000;
