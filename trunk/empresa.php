@@ -39,17 +39,18 @@
             <div id="text-area" class="flexcroll">
                 <div id="column1">
                     <h2> Overview </h2>
-                    <p>CBI es una empresa joven que busca estar a la vanguardia de las tecnologias de la información. El objetivo primordial de nuestra empresa es ofrecer un servicio de calidad posible en las areas que nos desempeñamos. Nuestra motivacion nace debido a que observamos una gran demanda de servicios de calidad en el servicio tecnico basico como asi tambien los servicios mas avanzados.</p>
+                    <p>CBI es una empresa joven que busca estar a la vanguardia de las tecnologías de la información. El objetivo primordial de nuestra empresa es ofrecer un servicio de calidad en las áreas que nos desempeñamos. Nuestra motivación nace debido a que observamos una gran demanda de servicios de calidad en el servicio tecnico basico como asi tambien los servicios mas avanzados.</p>
+                    <p> Otro objetivo de nuestra empresa es poder fortalecernos en el mercado del desarrollo de software, a traves de un equipo de desarrollo altamente capacitado y versátil, como el mercado lo requiere. Este objetivo estamos cumpliendo con la constante capacitación en ciertas tecnologías de amplia utilización en la actualidad, como ser Java EE, PHP, MySQL, C#, entre otras.</p>
                     <h2> Historia </h2>
-                    <p>Iniciamos nuestras actividades en julio del 2010 como proveedores de servicios tecnicos a la par que seguiamos en fases de culminación de la carrera de Ingenieria informatica en la Universidad Catolica Nuestra Señora de la Asuncion. Luego fuimos incursionando especificamente en lo relacionado a administracion de servidores Linux y varios de los servicios relacionados.</p>
-                    <p>En el 2011 nos afianzamos con nuestros primeros clientes, creando un vinculo de confianza muy importante. Tambien fuimos cerrando negocios con clientes nuevos que apostaron por nosotros, hoy vemos satisfechos a varios de ellos. Por otra parte, fuimos incursionando en el desarrollo de software con pequeños trabajos. En este año se incorporaron 3 personas mas al equipo humano de CBI.</p>
-                    <p>En el 2012 nos afianzamos con nuestros primeros clientes, creando un vinculos de confianza muy importantes. Particularmente decidimos incursionar de lleno en lo que es desarrollo de software. Al poco tiempo hemos tenido algunos <a href="proyectos.php" target="_blank">proyectos</a> en desarrollo, con diferentes tecnologías aplicadas.</p>
+                    <p>Iniciamos nuestras actividades en julio del 2010 como proveedores de servicios técnicos a la par que seguiamos en fases de culminación de la carrera de Ingeniería informática en la Universidad Católica Nuestra Señora de la Asunción. Luego fuimos incursionando especifícamente en lo relacionado a administracion de servidores Linux y varios de los servicios relacionados.</p>
+                    <p>En el 2011 nos afianzamos con nuestros primeros clientes, creando un vinculo de confianza muy importante. También fuimos cerrando negocios con clientes nuevos que apostaron por nosotros, hoy vemos satisfechos a varios de ellos. Por otra parte, fuimos adentrandonos en el desarrollo de software con pequeños trabajos. En este año se incorporaron 3 personas mas al equipo humano de CBI.</p>
+                    <p>En el 2012 decidimos incursionar de lleno en lo que es desarrollo de software. Al poco tiempo hemos tenido algunos proyectos de desarrollo, con diferentes tecnologías aplicadas.</p>
                 </div>                    	
                 <div id="column2">
                 <h2> Equipo Humano </h2>
-                    <p>El material mas importante que tiene CBI, es sin duda, el humano. CBI esta compuesto por un equipo de jovenes profesionales y en etapa de desarrollo en carreras relacionadas a la Informática. </p>
+                    <p>El material mas importante que tiene CBI, es sin duda, el humano. CBI está compuesto por un equipo de jóvenes profesionales y en etapa de desarrollo en carreras relacionadas a la Informática. </p>
                     <p>Cuidamos este patrimonio estimulando la capacitación constante de todas las personas que trabajan en nuestra empresa. Tenemos como política, el apoyo en la realización de cursos o actividades por parte del staff de CBI y de esta manera, contribuir con la sociedad, con personas mejor preparadas.</p>
-                    <p>Tambien prestamos mucha atención al desarrollo integral de la persona, fomentando siempre valores como honestidad, respeto, trabajo en equipo y autosuficiencia. Para nosotros es importante entender y promover la idea que el lugar de trabajo debe ser, un lugar de educación constante.  </p>
+                    <p>También prestamos mucha atención al desarrollo integral de la persona, fomentando siempre valores como honestidad, respeto, trabajo en equipo y autosuficiencia. Para nosotros es importante entender y promover la idea que el lugar de trabajo debe ser, un lugar de educación constante.  </p>
                 </div>
                 <div style="clear:both"></div>
             </div>
@@ -60,7 +61,7 @@
             </div>
             <div id="footer">
                 <div id="footer_text">
-                    <p>C.B. Solutions S.R.L - Todos los derechos reservados
+                    <p>C.B. Solutions S.R.L © 2012. Todos los derechos reservados
                     <br>
                     <a href="contacto.php" >Contacto</a>
                     </p>    

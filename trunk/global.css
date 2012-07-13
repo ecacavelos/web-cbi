@@ -244,3 +244,10 @@ a:active {
 	}
 	
 }
+h2 {
+	font-size: 18px;
+	font-weight: bold;
+	color: #507c9f;
+	letter-spacing: 3px;
+	word-spacing: 2px;
+}
