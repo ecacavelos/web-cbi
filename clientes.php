@@ -3,10 +3,11 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="robots" content="noindex" />
-    <title>.:CBI Consultora Informática:.</title>
+    <title>::Consultora Informática::</title>
     <link rel="stylesheet" type="text/css" href="global.css" />
     <link rel="stylesheet" type="text/css" href="css/inner-pages.css" />
     <link rel="stylesheet" type="text/css" href="css/flexcrollstyles.css" />
+    <link rel="shortcut icon" href="images/logo-small.png">
 	<style type="text/css" id="page-css">
         #main-section img.b4 {
             height: auto !important;
