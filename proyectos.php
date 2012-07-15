@@ -58,40 +58,68 @@
                             <img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Title #0" />
                         </a>
                         <div class="caption">
-                            <div class="image-title">Title #0</div>
-                            <div class="image-desc">Description #0</div>
+                            <div class="image-title"><a href="http://www.laboratoriospan.com.py" target="_new"> Laboratorios PAN S.R.L</a></div>
+                            <div class="image-desc"><h2> Pagina web corporativa</h2>
+                            <p> Web diseñada y desarrollada con las siguientes tecnologías:</p>
+                             <p>•	HTML 5.</p>
+                             <p>•	CSS 3.</p>
+                             <p>•	PHP.</p>
+                             <p>•	MySQL.</p>
+                             <p>•	CakePHP.</p>
+                             <p>•	JavaScript (JQuery).</p>
+                            </div>
+                        </div>
+                    </li>
+                    
+                      <li>
+                        <a class="thumb" name="leaf" href="images/th1.jpg" title="Title #0">
+                            <img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Title #0" />
+                        </a>
+                        <div class="caption">
+                            <div class="image-title"><a href="http://www.despachoscacavelos.com.py" target="_new">Despachos Aduaneros José Félix Cacavelos</a></div>
+                            <div class="image-desc"><h2> Pagina web corporativa</h2>
+                            <p> Web diseñada y desarrollada con las siguientes tecnologías:</p>
+                             <p>•	HTML 5.</p>
+                             <p>•	CSS 3.</p>
+                             <p>•	JavaScript.</p>
+                            </div>
                         </div>
                     </li>
                     
                     <li>
-                        <a class="thumb" name="leaf" href="images/th2.jpg" title="Title #0">
-                            <img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Title #1" />
+                        <a class="thumb" name="leaf" href="images/th1.jpg" title="Title #0">
+                            <img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Title #0" />
                         </a>
                         <div class="caption">
-                            <div class="image-title">Title #1</div>
-                            <div class="image-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+                            <div class="image-title"><a href="http://www.nambrena.com.py" target="_new">Nambrena - Industria Publicitaria</a></div>
+                            <div class="image-desc"><h2> Pagina web corporativa</h2>
+                            <p> Web diseñada y desarrollada con las siguientes tecnologías:</p>
+                             <p>•	HTML 5.</p>
+                             <p>•	CSS 3.</p>
+                             <p>•	PHP.</p>
+                             <p>•	MySQL.</p>
+                             <p>•	CakePHP.</p>
+                             <p>•	JavaScript (JQuery).</p>
+                            </div>
                         </div>
                     </li>
                     
-                    <li>
-                        <a class="thumb" name="leaf" href="images/th2.jpg" title="Title #0">
-                            <img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Title #2" />
+                      <li>
+                        <a class="thumb" name="leaf" href="images/th1.jpg" title="Title #0">
+                            <img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Title #0" />
                         </a>
                         <div class="caption">
-                            <div class="image-title">Title #2</div>
-                            <div class="image-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+                            <div class="image-title">GymAdmin</div>
+                            <div class="image-desc"><h2>Software Administrador de Gimnasios</h2>
+                            <p> Aplicación de escritorio desarrollada con las siguientes tecnologías:</p>
+                             <p>•	C#.</p>
+                             <p>•	SQL Server Compact edition 3.5.</p>
+                             <p>•	ADO .NET Entity Framework 3.5.</p>
+                            </div>
                         </div>
                     </li>
                     
-                    <li>
-                        <a class="thumb" name="leaf" href="images/th2.jpg" title="Title #0">
-                            <img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Title #3" />
-                        </a>
-                        <div class="caption">
-                            <div class="image-title">Title #3</div>
-                            <div class="image-desc">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
-                        </div>
-                    </li>                                        
+                   
                     
                 </ul>
             </div>                      
