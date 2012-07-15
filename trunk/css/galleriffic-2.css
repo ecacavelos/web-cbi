@@ -102,6 +102,13 @@ div.image-title {
 	font-weight: bold;
 	font-size: 1.4em;
 }
+
+div.image-title a{
+	color:#FFF;
+}
+div.image-title a:hover{
+	text-decoration:underline;
+}
 div.image-desc {
 	/*line-height: 1.3em;*/
 	padding-top: 12px;
