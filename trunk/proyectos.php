@@ -38,7 +38,7 @@
             </div>
             <div id="main-section"><a class="transition b1" href="empresa.php"><img class="claro b1" src="images/boton-claro.png" width="196" height="143"/></a>
             	<a class="transition b2" href="servicios.php"><img class="oscuro b2" src="images/boton-oscuro.png" width="170" height="115"/></a>
-                <a class="transition b3" href="proyectos.php"><img class="claro b3" src="images/boton-proyectos.png" width="198" height="145"/></a>
+                <a class="transition b3" href="proyectos.php"><img class="claro b3" src="images/boton-desarrollo.png" width="198" height="145"/></a>
                 <a class="transition b4" href="clientes.php"><img class="oscuro b4" src="images/boton-oscuro.png" width="198" height="145"/></a>
                 <a class="transition b5" href="contacto.php"><img class="claro b5" src="images/boton-claro.png" width="198" height="145"/></a>
 			</div>
@@ -54,8 +54,8 @@
                 <ul class="thumbs noscript">
 
                     <li>
-                        <a class="thumb" name="leaf" href="images/th1.jpg" title="Title #0">
-                            <img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Title #0" />
+                        <a class="thumb" name="PAN" href="images/th1.jpg" title="Laboratorios PAN">
+                            <img src="images/proyectos/logo_labpan.png" width="75" height="75" alt="Laboratorios PAN" />
                         </a>
                         <div class="caption">
                             <div class="image-title"><a href="http://www.laboratoriospan.com.py" target="_new"> Laboratorios PAN S.R.L</a></div>
@@ -72,8 +72,8 @@
                     </li>
                     
                       <li>
-                        <a class="thumb" name="leaf" href="images/th1.jpg" title="Title #0">
-                            <img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Title #0" />
+                        <a class="thumb" name="leaf" href="images/th1.jpg" title="Despachos JFC">
+                            <img src="images/proyectos/logo_jfc.png" width="75" height="75" alt="Despachos JFC" />
                         </a>
                         <div class="caption">
                             <div class="image-title"><a href="http://www.despachoscacavelos.com.py" target="_new">Despachos Aduaneros José Félix Cacavelos</a></div>
@@ -87,8 +87,8 @@
                     </li>
                     
                     <li>
-                        <a class="thumb" name="leaf" href="images/th1.jpg" title="Title #0">
-                            <img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Title #0" />
+                        <a class="thumb" name="leaf" href="images/th1.jpg" title="Publicitaria Nambrena">
+                            <img src="images/proyectos/logo_nambrena.png" width="75" height="75" alt="Publicitaria Nambrena" />
                         </a>
                         <div class="caption">
                             <div class="image-title"><a href="http://www.nambrena.com.py" target="_new">Nambrena - Industria Publicitaria</a></div>
@@ -105,8 +105,8 @@
                     </li>
                     
                       <li>
-                        <a class="thumb" name="leaf" href="images/th1.jpg" title="Title #0">
-                            <img src="http://farm4.static.flickr.com/3261/2538183196_8baf9a8015_s.jpg" alt="Title #0" />
+                        <a class="thumb" name="leaf" href="images/th1.jpg" title="GymAdmin">
+                            <img src="images/proyectos/logo_gymadmin.png" width="75" height="75" alt="GymAdmin" />
                         </a>
                         <div class="caption">
                             <div class="image-title">GymAdmin</div>

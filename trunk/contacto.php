@@ -39,7 +39,7 @@
         $txt .= "<tr><td>Email:</td><td><input type=\"text\" name=\"email\" /></td></tr>";
         $txt .= "<tr><td>Sujeto:</td><td><input type=\"text\" name=\"subject\" size=\"40\" /></td></tr>";
         $txt .= "<tr><td colspan=\"2\">Mensaje:</td></tr>";
-        $txt .= "<tr><td colspan=\"2\"><textarea name=\"comment\" rows=\"5\" cols=\"60\"></textarea></td></tr>";
+        $txt .= "<tr><td colspan=\"2\"><textarea name=\"comment\" style=\"width:98%;margin-right:5px\" rows=\"5\" cols=\"60\"></textarea></td></tr>";
         $txt .= "<tr><td colspan=\"2\" align=\"right\">";
         $txt .= "<input type=\"button\" name=\"send\" value=\"Enviar\" 
                     onclick=\"js_validate(document.forms['f2email']); return false;\" /></td></tr>";
@@ -56,7 +56,7 @@
 		$to1 = "info@cbi.com.py";
 		$to2 = $_POST['email'];
 		$subject = $_POST['subject'];
-		$body = 'Email de la persona: ' . $_POST['email'] . '\n' . $_POST['comment'];
+		$body =  "Alguien escribió en el formulario de contacto." . "\n" . "Remitente: ". $_POST['name'] . "\n" . "Email de la persona: " . $_POST['email'] . "\n\n" . "Mensaje: " . $_POST['comment'];
 		
 		$host = "ssl://just50.justhost.com";
 		$port = "465";
@@ -191,19 +191,29 @@
                 <a class="transition b5" href="contacto.php"><img class="claro b5" src="images/boton-contacto.png" width="198" height="145"/></a>
             </div>
             <div id="text-area" class="flexcroll">
-				<?php
-					if (isset($_POST['submitted']))
-					{
-						echo (treat_submission());
-						unset ($_POST['submitted']);
-					}
-					else
-						echo (show_form());									
-                ?>               
+            	<div id="info_contacto">
+                    <h2>Datos de Contacto</h2>
+                    <p>14 de Mayo 911 esq. Piribebuy</p>                   
+                    
+                    <p>Asunción, Paraguay<br>
+                    + 595 21 493 869</p>
+                    
+                    <iframe width="300" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?q=-25.285789,-57.640109&amp;num=1&amp;ie=UTF8&amp;t=m&amp;ll=-25.285757,-57.640114&amp;spn=0.005821,0.006437&amp;z=16&amp;output=embed"></iframe><br /><small><a href="https://maps.google.com/maps?q=-25.285789,-57.640109&amp;num=1&amp;ie=UTF8&amp;t=m&amp;ll=-25.285757,-57.640114&amp;spn=0.005821,0.006437&amp;z=16&amp;source=embed" target="_blank" style="text-align:left">Ver mapa grande</a></small>
+                    
+                </div>
+                <div id="form_contacto">
+					<?php
+                        if (isset($_POST['submitted']))
+                        {
+                            echo (treat_submission());
+                            unset ($_POST['submitted']);
+                        }
+                        else
+                            echo (show_form());									
+                    ?>
+                </div>
                 <div style="clear:both"></div>
             </div>
-            <div id="footer-line">
-            </div>                
             <div id="social-icons">
                 <a target="_blank" href="http://twitter.com/#!/CBI_py"><img class="twitter" src="images/icon_tw-black.png" width="32" height="32"/></a><a target="_blank" href="http://www.facebook.com/CBInformatica"><img class="facebook" src="images/icon_fb-black.png" width="32" height="32"/></a>
             </div>
