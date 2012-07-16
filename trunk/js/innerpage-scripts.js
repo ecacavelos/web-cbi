@@ -30,7 +30,7 @@ $(window).load(function() {
 					$(this).attr("src","images/boton-empresa.png");
 				}				
 				if($(this).hasClass('b3')) {
-					$(this).attr("src","images/boton-proyectos.png");
+					$(this).attr("src","images/boton-desarrollo.png");
 				}
 				if($(this).hasClass('b5')) {
 					$(this).attr("src","images/boton-contacto.png");

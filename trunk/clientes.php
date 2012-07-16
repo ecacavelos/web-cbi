@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="robots" content="noindex" />
-    <title>::Consultora Informática::</title>
+    <title>.:Consultora Informática:.</title>
     <link rel="stylesheet" type="text/css" href="global.css" />
     <link rel="stylesheet" type="text/css" href="css/inner-pages.css" />
     <link rel="stylesheet" type="text/css" href="css/flexcrollstyles.css" />
@@ -45,7 +45,7 @@
                     
                 </div>
                 <div id="column2">
-	                <div class="client_list_item"><img src="images/clientes/logo-jfc.gif"><div class="client_list_caption"><h2>Despachos Aduaneros José Félix Cacavelos</h2><p> Agencia de despachos aduaneros, asesoramientos en exportaciones e importaciones y tránsito de mercaderias.</p></div></div>
+	                <div class="client_list_item"><img src="images/clientes/logo-jfc.png"><div class="client_list_caption"><h2>Despachos Aduaneros José Félix Cacavelos</h2><p> Agencia de despachos aduaneros, asesoramientos en exportaciones e importaciones y tránsito de mercaderias.</p></div></div>
     	            <div class="client_list_item"><img src="images/clientes/logo-domsa.png"><div class="client_list_caption"><h2>Domsa</h2><p>Corredora de seguros con varios años en el mercado, ofreciendo servicios de altísima calidad.</p></div></div>
                      <div class="client_list_item"><img src="images/clientes/logo-serviciosJuridicos.png"><div class="client_list_caption"><h2>Servicios Jurídicos SJ</h2><p> Estudio jurídico ubicado en el centro de Asunción, con  mas de 15 personas en el staff.</p></div></div>
 				</div>

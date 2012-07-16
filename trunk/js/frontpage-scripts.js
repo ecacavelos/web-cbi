@@ -47,7 +47,7 @@ $(window).load(function() {
 		}
 		else if(clicked.hasClass('b3')){
 			$("img.b3").animate({height: button_height_claro}, 500);
-			$("img.b3").attr("src","images/boton-proyectos.png");
+			$("img.b3").attr("src","images/boton-desarrollo.png");
 			
 			$("img.b1").animate({height: '19'}, 500);
 			$("img.b1").attr("src","images/boton-claro.png");
