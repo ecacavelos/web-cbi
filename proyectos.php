@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="robots" content="noindex" />
-    <title>::Consultora Informática::</title>
+    <title>.:Consultora Informática:.</title>
     <link rel="stylesheet" type="text/css" href="global.css" />
     <link rel="stylesheet" type="text/css" href="css/inner-pages.css" />
     <link rel="stylesheet" type="text/css" href="css/proyectos.css" />

@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="robots" content="noindex" />
-   	<title>::Consultora Informática::</title>  
+   	<title>.:Consultora Informática:.</title>
     <link rel="stylesheet" type="text/css" href="global.css" />
     <link rel="stylesheet" type="text/css" href="css/inner-pages.css" />
     <link rel="stylesheet" type="text/css" href="css/flexcrollstyles.css" />
@@ -31,7 +31,7 @@
     <div id="wrap">
         <div id="content">
             <div id="logo"><a class="transition-out" href="index.php"><img src="images/logo.png" width="160" height="80"/></a></div>
-            <div id="main-section"><a class="transition b1" href="#"><img class="claro b1" src="images/boton-empresa.png" width="196" height="143"/></a>
+            <div id="main-section"><a class="transition b1" href="empresa.php"><img class="claro b1" src="images/boton-empresa.png" width="196" height="143"/></a>
                 <a class="transition b2" href="servicios.php"><img class="oscuro b2" src="images/boton-oscuro.png" width="170" height="115"/></a>
                 <a class="transition b3" href="proyectos.php"><img class="claro b3" src="images/boton-claro.png" width="198" height="145"/></a>
                 <a class="transition b4" href="clientes.php"><img class="oscuro b4" src="images/boton-oscuro.png" width="198" height="145"/></a>
@@ -40,8 +40,8 @@
             <div id="text-area" class="flexcroll">
                 <div id="column1">
                     <h2> Overview </h2>
-                    <p>CBI es una empresa joven que busca estar a la vanguardia de las tecnologías de la información. El objetivo primordial de nuestra empresa es ofrecer un servicio de calidad en las áreas que nos desempeñamos. Nuestra motivación nace debido a que observamos una gran demanda de servicios de calidad en el servicio tecnico basico como asi tambien los servicios mas avanzados.</p>
-                    <p> Otro objetivo de nuestra empresa es poder fortalecernos en el mercado del desarrollo de software, a traves de un equipo de desarrollo altamente capacitado y versátil, como el mercado lo requiere. Este objetivo estamos cumpliendo con la constante capacitación en ciertas tecnologías de amplia utilización en la actualidad, como ser Java EE, PHP, MySQL, C#, entre otras.</p>
+                    <p>CBI es una empresa joven que busca estar a la vanguardia de las tecnologías de la información. El objetivo primordial de nuestra empresa es ofrecer un servicio de calidad en las áreas en las que nos desempeñamos. Nuestra motivación nace debido a que observamos una gran demanda de servicios de calidad en el servicio técnico básico como asi tambien los servicios más avanzados.</p>
+                    <p> Otro objetivo de nuestra empresa es poder fortalecernos en el mercado del desarrollo de software, a traves de un equipo de desarrollo altamente capacitado y versátil, como el mercado lo requiere. Este objetivo lo estamos cumpliendo con la constante capacitación en ciertas tecnologías de amplia utilización en la actualidad, como ser Java EE, PHP, MySQL, C#, entre otras.</p>
                     <h2> Historia </h2>
                     <p>Iniciamos nuestras actividades en julio del 2010 como proveedores de servicios técnicos a la par que seguiamos en fases de culminación de la carrera de Ingeniería informática en la Universidad Católica Nuestra Señora de la Asunción. Luego fuimos incursionando especifícamente en lo relacionado a administracion de servidores Linux y varios de los servicios relacionados.</p>
                     <p>En el 2011 nos afianzamos con nuestros primeros clientes, creando un vinculo de confianza muy importante. También fuimos cerrando negocios con clientes nuevos que apostaron por nosotros, hoy vemos satisfechos a varios de ellos. Por otra parte, fuimos adentrandonos en el desarrollo de software con pequeños trabajos. En este año se incorporaron 3 personas mas al equipo humano de CBI.</p>

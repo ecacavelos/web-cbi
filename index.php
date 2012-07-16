@@ -3,8 +3,9 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="robots" content="noindex" />
-    <title>.:CBI Consultora Informática:.</title>
+    <title>.:Consultora Informática:.</title>
     <link rel="stylesheet" type="text/css" href="global.css" />
+    <link rel="shortcut icon" href="images/logo-small.png">
     <script type="text/javascript" src="js/jquery-1.7.1.min.js"></script>
     <script type="text/javascript" src="js/frontpage-scripts.js"></script>
     <noscript>
@@ -24,7 +25,7 @@
             <div id="logo"><img src="images/logo.png" width="160" height="80"/></div>
 			<div id="main-section"><a class="transition-up b1" href="empresa.php"><img class="claro b1" src="images/boton-empresa.png" width="196" height="143"/></a>
                 <a class="transition-up b2" href="servicios.php"><img class="oscuro b2" src="images/boton-servicios.png" width="196" height="143"/></a>
-                <a class="transition-up b3" href="proyectos.php"><img class="claro b3" src="images/boton-proyectos.png" width="196" height="143"/></a>
+                <a class="transition-up b3" href="proyectos.php"><img class="claro b3" src="images/boton-desarrollo.png" width="196" height="143"/></a>
                 <a class="transition-up b4" href="clientes.php"><img class="oscuro b4" src="images/boton-clientes.png" width="196" height="143"/></a>
                 <a class="transition-up b5" href="contacto.php"><img class="claro b5" src="images/boton-contacto.png" width="170" height="115"/></a>
             </div>
