@@ -39,12 +39,15 @@
             </div>
             <div id="text-area" class="client_list flexcroll">
 	            <div id="column1">
-            		<div class="client_list_item"><img src="images/clientes/Centre_Democrats_of_San_Marino_Logo.png"><div class="client_list_caption">Rivera</div></div>
-                	<div class="client_list_item"><img src="images/clientes/wind-expert-logo-100.png"><div class="client_list_caption">Madrigal</div></div>
+            		<div class="client_list_item"><img src="images/clientes/logo-agrofuturo.png"><div class="client_list_caption"><h2>Agrofuturo Paraguay S.A</h2> <p> Empresa dedicada a la formulación y fraccionamiento de defensivos agrícolas dirigidos a empresas distribuidoras, grandes y pequeños productores de las zonas de cultivos agrícolas del Paraguay y de la región.</p></div></div>
+                	<div class="client_list_item"><img src="images/clientes/logo-madrigal.jpg"><div class="client_list_caption"><h2>Farmacias Madrigal </h2><p> Red de farmacias con sucursales ubicadas en varios lugares de Asunción.</p></div></div>
+                    <div class="client_list_item"><img src="images/clientes/logo-rivera.jpg"><div class="client_list_caption"><h2>Rivera bar + Restó</h2><p> Restaurante alternativo ubicado en el microcentro de Asunción.</p></div></div>
+                    
                 </div>
                 <div id="column2">
-	                <div class="client_list_item"><img src="images/clientes/RTEmagicC_G_Data_25Y-Logo_550x550_13.png"><div class="client_list_caption"><h3>Lorem ipsum</h3>Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</div></div>
-    	            <div class="client_list_item"><img src="images/clientes/elcome.png"><div class="client_list_caption">Agrofuturo</div></div>
+	                <div class="client_list_item"><img src="images/clientes/logo-jfc.gif"><div class="client_list_caption"><h2>Despachos Aduaneros José Félix Cacavelos</h2><p> Agencia de despachos aduaneros, asesoramientos en exportaciones e importaciones y tránsito de mercaderias.</p></div></div>
+    	            <div class="client_list_item"><img src="images/clientes/logo-domsa.png"><div class="client_list_caption"><h2>Domsa</h2><p>Corredora de seguros con varios años en el mercado, ofreciendo servicios de altísima calidad.</p></div></div>
+                     <div class="client_list_item"><img src="images/clientes/logo-serviciosJuridicos.png"><div class="client_list_caption"><h2>Servicios Jurídicos SJ</h2><p> Estudio jurídico ubicado en el centro de Asunción, con  mas de 15 personas en el staff.</p></div></div>
 				</div>
                 <div style="clear:both"></div>
             </div>              
