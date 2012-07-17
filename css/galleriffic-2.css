@@ -68,6 +68,7 @@ div.slideshow a.advance-link:hover, div.slideshow a.advance-link:active, div.sli
 	text-decoration: none;
 }
 div.slideshow img {
+	width: 130%;
 	min-width: 500px;
 	/*vertical-align: middle;*/
 	border: 1px solid #ccc;
