@@ -39,15 +39,15 @@
             </div>
             <div id="text-area" class="client_list flexcroll">
 	            <div id="column1">
-            		<div class="client_list_item"><img src="images/clientes/logo-agrofuturo.png"><div class="client_list_caption"><h2>Agrofuturo Paraguay S.A</h2> <p> Empresa dedicada a la formulación y fraccionamiento de defensivos agrícolas dirigidos a empresas distribuidoras, grandes y pequeños productores de las zonas de cultivos agrícolas del Paraguay y de la región.</p></div></div>
-                	<div class="client_list_item"><img src="images/clientes/logo-madrigal.jpg"><div class="client_list_caption"><h2>Farmacias Madrigal </h2><p> Red de farmacias con sucursales ubicadas en varios lugares de Asunción.</p></div></div>
-                    <div class="client_list_item"><img src="images/clientes/logo-rivera.jpg"><div class="client_list_caption"><h2>Rivera bar + Restó</h2><p> Restaurante alternativo ubicado en el microcentro de Asunción.</p></div></div>
+            		<div class="client_list_item"><a href="http://www.agrofuturo.com.py/" target="_blank"><img src="images/clientes/logo-agrofuturo.png"></a><div class="client_list_caption"><h2>Agrofuturo Paraguay S.A</h2> <p> Empresa dedicada a la formulación y fraccionamiento de defensivos agrícolas dirigidos a empresas distribuidoras, grandes y pequeños productores de las zonas de cultivos agrícolas del Paraguay y de la región.</p></div></div>
+                	<div class="client_list_item"><a href="http://www.facebook.com/pages/Farmacia-Madrigal/126406020702924" target="_blank"><img src="images/clientes/logo-madrigal.jpg"></a><div class="client_list_caption"><h2>Farmacias Madrigal </h2><p> Red de farmacias con sucursales ubicadas en varios lugares de Asunción.</p></div></div>
+                    <div class="client_list_item"><a href="https://www.facebook.com/pages/RIVERA-CLUB-bar-resto-musica/102156023169919" target="_blank"><img src="images/clientes/logo-rivera.jpg"></a><div class="client_list_caption"><h2>Rivera bar + Restó</h2><p> Restaurante alternativo ubicado en el microcentro de Asunción.</p></div></div>
                     
                 </div>
                 <div id="column2">
-	                <div class="client_list_item"><img src="images/clientes/logo-jfc.png"><div class="client_list_caption"><h2>Despachos Aduaneros José Félix Cacavelos</h2><p> Agencia de despachos aduaneros, asesoramientos en exportaciones e importaciones y tránsito de mercaderias.</p></div></div>
-    	            <div class="client_list_item"><img src="images/clientes/logo-domsa.png"><div class="client_list_caption"><h2>Domsa</h2><p>Corredora de seguros con varios años en el mercado, ofreciendo servicios de altísima calidad.</p></div></div>
-                     <div class="client_list_item"><img src="images/clientes/logo-serviciosJuridicos.png"><div class="client_list_caption"><h2>Servicios Jurídicos SJ</h2><p> Estudio jurídico ubicado en el centro de Asunción, con  mas de 15 personas en el staff.</p></div></div>
+	                <div class="client_list_item"><a href="http://www.despachoscacavelos.com.py/" target="_blank"><img src="images/clientes/logo-jfc.png"></a><div class="client_list_caption"><h2>Despachos Aduaneros José Félix Cacavelos</h2><p> Agencia de despachos aduaneros, asesoramientos en exportaciones e importaciones y tránsito de mercaderias.</p></div></div>
+    	            <div class="client_list_item"><a href="http://www.domsa.com.py/" target="_blank"><img src="images/clientes/logo-domsa.png"></a><div class="client_list_caption"><h2>Domsa</h2><p>Corredora de seguros con varios años en el mercado, ofreciendo servicios de altísima calidad.</p></div></div>
+					<!--<div class="client_list_item"><img src="images/clientes/logo-serviciosJuridicos.png"><div class="client_list_caption"><h2>Servicios Jurídicos SJ</h2><p> Estudio jurídico ubicado en el centro de Asunción, con  mas de 15 personas en el staff.</p></div></div>-->
 				</div>
                 <div style="clear:both"></div>
             </div>              
