@@ -54,7 +54,7 @@
                 <ul class="thumbs noscript">
 
                     <li>
-                        <a class="thumb" name="PAN" href="images/th1.jpg" title="Laboratorios PAN">
+                        <a class="thumb" name="PAN" href="images/proyectos/slide_labpan.png" title="Laboratorios PAN">
                             <img src="images/proyectos/logo_labpan.png" width="75" height="75" alt="Laboratorios PAN" />
                         </a>
                         <div class="caption">
@@ -72,7 +72,7 @@
                     </li>
                     
                       <li>
-                        <a class="thumb" name="leaf" href="images/th1.jpg" title="Despachos JFC">
+                        <a class="thumb" name="leaf" href="images/proyectos/slide_jfc.png" title="Despachos JFC">
                             <img src="images/proyectos/logo_jfc.png" width="75" height="75" alt="Despachos JFC" />
                         </a>
                         <div class="caption">
@@ -87,7 +87,7 @@
                     </li>
                     
                     <li>
-                        <a class="thumb" name="leaf" href="images/th1.jpg" title="Publicitaria Nambrena">
+                        <a class="thumb" name="leaf" href="images/proyectos/slide_nambrena.png" title="Publicitaria Nambrena">
                             <img src="images/proyectos/logo_nambrena.png" width="75" height="75" alt="Publicitaria Nambrena" />
                         </a>
                         <div class="caption">
@@ -105,7 +105,7 @@
                     </li>
                     
                       <li>
-                        <a class="thumb" name="leaf" href="images/th1.jpg" title="GymAdmin">
+                        <a class="thumb" name="leaf" href="images/proyectos/slide_gymadmin.png" title="GymAdmin">
                             <img src="images/proyectos/logo_gymadmin.png" width="75" height="75" alt="GymAdmin" />
                         </a>
                         <div class="caption">
@@ -194,7 +194,7 @@
             </div>
             <div id="footer">
                 <div id="footer_text">
-                    <p>C.B. Solutions S.R.L - Todos los derechos reservados
+                    <p>C.B. Solutions S.R.L © 2012. Todos los derechos reservados
                     <br />
                     <a href="contacto.php" >Contacto</a>
                     </p>    

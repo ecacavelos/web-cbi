@@ -34,7 +34,7 @@
             </div>
             <div id="footer">
                 <div id="footer_text">
-                    <p>C.B. Solutions S.R.L - Todos los derechos reservados
+                    <p>C.B. Solutions S.R.L © 2012. Todos los derechos reservados
                     <br />
                     <a href="contacto.php" >Contacto</a>
                     </p>    

@@ -56,7 +56,7 @@
 		$to1 = "info@cbi.com.py";
 		$to2 = $_POST['email'];
 		$subject = $_POST['subject'];
-		$body =  "Alguien escribió en el formulario de contacto." . "\n" . "Remitente: ". $_POST['name'] . "\n" . "Email de la persona: " . $_POST['email'] . "\n\n" . "Mensaje: " . $_POST['comment'];
+		$body =  "Alguien escribio en el formulario de contacto." . "\n" . "Remitente: ". $_POST['name'] . "\n" . "Email de la persona: " . $_POST['email'] . "\n\n" . "Mensaje: " . $_POST['comment'];
 		
 		$host = "ssl://just50.justhost.com";
 		$port = "465";
@@ -219,7 +219,7 @@
             </div>
             <div id="footer">
                 <div id="footer_text">
-                    <p>C.B. Solutions S.R.L - Todos los derechos reservados
+                    <p>C.B. Solutions S.R.L © 2012. Todos los derechos reservados
                     <br>
                     <a href="contacto.php" >Contacto</a>
                     </p>    
