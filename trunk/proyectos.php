@@ -192,14 +192,6 @@
             <div id="social-icons">
                 <img class="twitter" src="images/icon_tw-black.png" width="32" height="32"/><img class="facebook" src="images/icon_fb-black.png" width="32" height="32"/>
             </div>
-            <div id="footer">
-                <div id="footer_text">
-                    <p>C.B. Solutions S.R.L © 2012. Todos los derechos reservados
-                    <br />
-                    <a href="contacto.php" >Contacto</a>
-                    </p>    
-                </div>            
-            </div>
         </div>
     </div>
     <div id="lower_bar"></div>
