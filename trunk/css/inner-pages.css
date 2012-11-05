@@ -182,6 +182,10 @@
 		width: 100%;
 	}
 
+	div.slideshow img {
+		width: 500px !important;	
+	}
+
 }
 
 @media screen and (max-width: 1000px) {

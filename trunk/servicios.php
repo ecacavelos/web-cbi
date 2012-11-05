@@ -87,7 +87,7 @@
               <div id="footer-line">
               </div>                
               <div id="social-icons">
-                  <img class="twitter" src="images/icon_tw-black.png" width="32" height="32"/><img class="facebook" src="images/icon_fb-black.png" width="32" height="32"/>
+                  <a target="_blank" href="http://twitter.com/#!/CBI_py"><img class="twitter" src="images/icon_tw-black.png" width="32" height="32"/></a><a target="_blank" href="http://www.facebook.com/CBInformatica"><img class="facebook" src="images/icon_fb-black.png" width="32" height="32"/></a>
               </div>
               <div id="footer">
                   <div id="footer_text">
