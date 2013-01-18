@@ -61,17 +61,17 @@
                             <div class="image-title"><a href="http://www.laboratoriospan.com.py" target="_new"> Laboratorios PAN S.R.L</a></div>
                             <div class="image-desc"><h2> Pagina web corporativa</h2>
                             <p> Web diseñada y desarrollada con las siguientes tecnologías:</p>
-                             <p>•	HTML 5.</p>
-                             <p>•	CSS 3.</p>
-                             <p>•	PHP.</p>
-                             <p>•	MySQL.</p>
-                             <p>•	CakePHP.</p>
-                             <p>•	JavaScript (JQuery).</p>
-                            </div>
+                             	•	HTML 5.<br>
+                             	•	CSS 3.<br>
+                             	•	PHP.<br>
+                             	•	MySQL.<br>
+                             	•	CakePHP.<br>
+                             	•	JavaScript (JQuery).<br>
+                            </div>                            
                         </div>
                     </li>
                     
-                      <li>
+					<li>
                         <a class="thumb" name="leaf" href="images/proyectos/slide_jfc.png" title="Despachos JFC">
                             <img src="images/proyectos/logo_jfc.png" width="75" height="75" alt="Despachos JFC" />
                         </a>
@@ -79,10 +79,10 @@
                             <div class="image-title"><a href="http://www.despachoscacavelos.com.py" target="_new">Despachos Aduaneros José Félix Cacavelos</a></div>
                             <div class="image-desc"><h2> Pagina web corporativa</h2>
                             <p> Web diseñada y desarrollada con las siguientes tecnologías:</p>
-                             <p>•	HTML 5.</p>
-                             <p>•	CSS 3.</p>
-                             <p>•	JavaScript.</p>
-                            </div>
+                             	•	HTML 5.<br>
+                             	•	CSS 3.<br>
+                             	•	JavaScript.<br>
+                            </div>                            
                         </div>
                     </li>
                     
@@ -94,17 +94,17 @@
                             <div class="image-title"><a href="http://www.nambrena.com.py" target="_new">Nambrena - Industria Publicitaria</a></div>
                             <div class="image-desc"><h2> Pagina web corporativa</h2>
                             <p> Web diseñada y desarrollada con las siguientes tecnologías:</p>
-                             <p>•	HTML 5.</p>
-                             <p>•	CSS 3.</p>
-                             <p>•	PHP.</p>
-                             <p>•	MySQL.</p>
-                             <p>•	CakePHP.</p>
-                             <p>•	JavaScript (JQuery).</p>
-                            </div>
+                             	•	HTML 5.<br>
+                             	•	CSS 3.<br>
+                             	•	PHP.<br>
+                             	•	MySQL.<br>
+                             	•	CakePHP.<br>
+                             	•	JavaScript (JQuery).<br>
+                            </div>                            
                         </div>
                     </li>
                     
-                      <li>
+					<li>
                         <a class="thumb" name="leaf" href="images/proyectos/slide_gymadmin.png" title="GymAdmin">
                             <img src="images/proyectos/logo_gymadmin.png" width="75" height="75" alt="GymAdmin" />
                         </a>
@@ -112,14 +112,27 @@
                             <div class="image-title">GymAdmin</div>
                             <div class="image-desc"><h2>Software Administrador de Gimnasios</h2>
                             <p> Aplicación de escritorio desarrollada con las siguientes tecnologías:</p>
-                             <p>•	C#.</p>
-                             <p>•	SQL Server Compact edition 3.5.</p>
-                             <p>•	ADO .NET Entity Framework 3.5.</p>
-                            </div>
+                             	•	C#.<br>
+                             	•	SQL Server Compact edition 3.5.<br>
+                             	•	ADO .NET Entity Framework 3.5.<br>
+                            </div>                            
                         </div>
                     </li>
                     
-                   
+                    <li>
+                        <a class="thumb" name="leaf" href="images/proyectos/slide_people.png" title="PEOPLE Consultora en Recursos Humanos">
+                            <img src="images/proyectos/logo_people.png" width="75" height="75" alt="PEOPLE" />
+                        </a>
+                        <div class="caption">
+                            <div class="image-title"><a href="http://www.people.com.py" target="_new">PEOPLE - Consultora en Recursos Humanos</a></div>
+                            <div class="image-desc"><h2> Pagina web corporativa</h2>
+                            <p> Web diseñada y desarrollada con las siguientes tecnologías:</p>
+                             	•	HTML 5.<br>
+								•	CSS 3.<br>
+								•	JavaScript (JQuery).<br>
+                            </div>                            
+                        </div>                        
+                    </li>                   
                     
                 </ul>
             </div>                      
